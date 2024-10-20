@@ -1,0 +1,2 @@
+Player: hopsin, Guesses: 5
+Player: thuggers, Guesses: 3
